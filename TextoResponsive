@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juan Carlos Gómez González</title>
+    <LinK rel="stylesheet" href="../CSS/TextoResponsive.css">
+</head>
+<body>
+    <a href="autobirografia.html">
+        <h3 class="colors">Autobiografia</h3>
+    </a>
+    <h2>Haz lo que sientas en tu corazón para estar bien, porque de todos modos serás criticado de cualquier forma. Serás condenado si lo haces, y condenado si no lo haces.</h2>
+<div class="example"><h1>JUAN CARLOS GÓMEZ GONZALEZ</h1></div>
+<P>Tienes el poder de crear la vida de tus sueños</P>
+</body>
+</html>
